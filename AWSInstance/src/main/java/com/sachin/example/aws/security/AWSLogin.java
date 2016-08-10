@@ -23,7 +23,7 @@ public class AWSLogin {
 	}
 
 	public AWSCredentials getAWSCredentials(){
-		return getAWSCredentials("AKIAI3YI2RKEL6YQZFHQ",
-				"A+IYVIAbI2hc4PyM8EUAIa3JJCxlCiJcA0OWqtwk");
+		return getAWSCredentials("AKIAI3JKGHJKH545ZFHQ",
+				"A+IYVI656KJHJK7867JHJ35JKHJ54H5JCxlCiJcA0OWqtwk");
 	}
 }
